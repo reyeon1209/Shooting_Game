@@ -12,6 +12,8 @@
   Sejong University Software Design Basic in 2018
 </p>
 
+* * *
+
 ## Table of Contents
 
 - [게임장르](#게임장르)
@@ -20,6 +22,8 @@
 - [사용자설명서](#사용자설명서)
 - [게임화면](#게임화면)
 - [상세기획](#상세기획)
+
+* * *
 
 ## 게임장르
 ```
