@@ -176,3 +176,13 @@
 
 - [**@reyeon1209**](https://github.com/reyeon1209)   
 - <reyeon5368@naver.com>
+
+**김민주**
+
+- [**@min942773**](https://github.com/min942773)   
+- <min942773@gmail.com>
+
+**김수정**
+
+- [**@cme10575**](https://github.com/cme10575)   
+- <>
