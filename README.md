@@ -185,4 +185,4 @@
 **김수정**
 
 - [**@cme10575**](https://github.com/cme10575)   
-- <>
+- <cme10575@gmail.com>
