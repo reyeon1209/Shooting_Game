@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/reyeon1209/Shooting-Game/">
-    <img src="https://user-images.githubusercontent.com/46713032/68528057-7639c600-0331-11ea-9afd-82984737c80b.png" alt="Game logo" width="72" height="72">
+    <img src="https://user-images.githubusercontent.com/46713032/68528057-7639c600-0331-11ea-9afd-82984737c80b.png" alt="Game logo" width="100" height="72">
   </a>
 </p>
 
