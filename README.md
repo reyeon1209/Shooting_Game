@@ -1,4 +1,4 @@
-# Shooting-Game
+# Shooting_Game
 
 <p align="center">
   <a href="https://github.com/reyeon1209/Shooting-Game/">
